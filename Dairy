@@ -1,0 +1,65 @@
+#GROMM
+Diary
+Date : 21 February 2017
+Time: 13h30-14h30
+	First meeting with our client.
+	Members present at the meeting were Owen, Martha, Mweemba, Robert and Gabriel.
+	The client gave us the requirements and Martha responsible for documentation noted them down.
+	We also added some requirements which the client was happy with.
+
+Date: 28 February 2017
+Time:
+	Each member came up with algorithms according to the requirements given and approved by the client.
+	All members were present and all participated fully.
+
+Date: 7 March 2017
+Time:
+	 We identified the classes and attributes.
+	All members were present.
+	We coded the classes
+	We met with the client and showed him our work.
+
+Date: 14 march 2017
+Time: 
+	We added some of the interfaces that were missing on our interface ( Owen and Mweemba added them) 
+	Robert wrote the minutes of what we did
+	Members Present were: Mweemba, Robert and Owen
+
+Date: 4 April 2017
+Time: 17h00-19h20
+	Members present: Mweemba, Owen, Martha, Robert and Gabriel
+	We drew the UML diagrams for all our classes and wrote part of the code for some classes.
+	Everyone participated in drawing the UML diagram and coding.
+	Everyone participated in drawing the state diagram.
+
+Date: 10 April 2017 
+Time: 17h30-19h30
+	Members present: Mweemba, Robert, Owen and Gabriel 
+	We drew the sequence diagram (All participated)
+	We discussed the architectural patterns suited/good for our project.
+
+Date: 13 April 2017
+Time: 17h30-19h30
+	All group members were present.
+	We implemented part of our codes
+	We did some of the tests:
+#checking if senior student applied in order to proceed.
+#if student passed or failed
+#allocation of single rooms as well as double rooms.
+	Our client requested for a separation between single and double rooms.
+	All group members participated.
+	We discussed and added more detail to the first documentation we handed in for marking.
+
+Date: 17 April 2017
+Time: 14h00-17h00
+	We worked on the code.
+	Members present were Mweemba and Robert
+
+Date:18 April 2017
+Time: 16h30-19h10
+	We met with our client earlier today at 13h30.
+	Members present were: Martha, Owen, Robert and mweemba
+	The client saw our codes and he was quite impressed and he asked us to make sure the form clears automatically after the student presses apply.
+	He also asked us to add another section for administration.
+	We continued with the codes for the project.
+
